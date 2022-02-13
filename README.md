@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Annisa Rosdiyana**.\
+Perkenalkan nama saya **Annisa Rosdiyana**.
 
-Saya seorang **Mahasiswa Sistem Informasi** di UIN Syarif Hidayatullah Jakarta \
+Saya seorang **Mahasiswa Sistem Informasi** di UIN Syarif Hidayatullah Jakarta 
 
-Saya sangat tertarik untuk menjadi seorang **Mobile Developper**.\
+Saya sangat tertarik untuk menjadi seorang **Mobile Developper**.
 
 Saat ini saya tengah menempuh program Bangkit 2022 kategori Mobile Development (Android)\
 
